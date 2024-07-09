@@ -73,6 +73,8 @@ In order to deploy your game, you will need to upload *all* of the contents of t
 
 Created by [Erty Seidohl](https://erty.me), with an MIT license - see [LICENSE](./LICENSE).
 
+Tiles purchased from Atomic Realm https://atomicrealm.com.
+
 ## Phaser
 
 Created by [Phaser Studio](mailto:support@phaser.io). Powered by coffee, anime, pixels and love.
